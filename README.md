@@ -1,2 +1,2 @@
-# yaugika
+# Wellness
 Wellness Project
